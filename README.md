@@ -10,7 +10,7 @@
             "type": "Container",
             "targetWidth": "AtLeast:Wide",
             "backgroundImage": {
-                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_22.png",
+                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_23.png",
                 "horizontalAlignment": "Center"
             },
             "minHeight": "200px",
@@ -21,7 +21,7 @@
             "type": "Container",
             "backgroundImage": {
                 "horizontalAlignment": "Center",
-                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_22.png"
+                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_23.png"
             },
             "minHeight": "165px",
             "verticalContentAlignment": "Bottom",
@@ -32,7 +32,7 @@
             "type": "Container",
             "backgroundImage": {
                 "horizontalAlignment": "Center",
-                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_22.png"
+                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_23.png"
             },
             "bleed": true,
             "minHeight": "130px",
@@ -57,17 +57,17 @@
                 }
             ],
             "verticalContentAlignment": "Bottom",
-            "targetWidth": "AtMost:Narrow"
+            "targetWidth": "Narrow"
         },
         {
             "type": "Container",
             "backgroundImage": {
-                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_22.png"
+                "url": "https://raw.githubusercontent.com/HeavenBay/PESCO/main/zabbix_error_23.png"
             },
             "horizontalAlignment": "Center",
             "targetWidth": "VeryNarrow",
             "bleed": true,
-            "minHeight": "100px"
+            "minHeight": "80px"
         },
         {
             "type": "TextBlock",
